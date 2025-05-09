@@ -8,6 +8,27 @@
       "when": 1746316857512,
       "tag": "0000_exotic_thunderbolts",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1746498457234,
+      "tag": "0001_sour_albert_cleary",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1746498909373,
+      "tag": "0002_outstanding_tiger_shark",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1746508471545,
+      "tag": "0003_milky_mathemanic",
+      "breakpoints": true
     }
   ]
 }

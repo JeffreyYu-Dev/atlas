@@ -29,7 +29,12 @@ export default async function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${geistSans.variable} ${geistMono.variable} antialiased dark`}
+        className={`${geistSans.variable} ${geistMono.variable} antialiased dark:`}
+        style={{
+          touchAction: "none",
+          overscrollBehavior: "none",
+          overflow: "hidden",
+        }}
       >
         <SessionProvider session={session}>{children}</SessionProvider>
       </body>
